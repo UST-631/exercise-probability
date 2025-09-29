@@ -1,4 +1,4 @@
-# Exploring Probability: Coin Flip Analysis
+# Exercise: Exploring Probability
 
 An interactive Jupyter notebook designed to introduce fundamental concepts of probability and statistical inference through hands-on experimentation with coin flips.
 
